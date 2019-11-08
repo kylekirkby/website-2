@@ -91,3 +91,26 @@
 .hidden-iframe {
     display: none;
 }
+// Google Search Console Mobile Usability Fix
+#navbar-buttons .dropdown-menu>li>a:hover {
+    font-size:16px;
+}
+#navbar-buttons .dropdown-menu>li>a{
+    font-size:16px;
+}
+
+#wrapper footer .footer-main .contact-details address {
+    font-size:18px;
+}
+
+#wrapper footer a {
+    font-size:18px;
+}
+
+.footer-bottom .col-xs-12.text-white.text-center {
+    font-size:18px;
+}
+
+td, th {
+    font-size:16px;
+}
